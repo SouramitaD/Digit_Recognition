@@ -1,0 +1,19 @@
+model_config_list {
+  config {
+    name: "digit_AI"
+    base_path: "/home/simadebnath641/Project01/ml_app/digit_AI"
+    model_platform: "tensorflow"
+    }
+
+  config {
+    name: "digit_AI_inv"
+    base_path: "/home/simadebnath641/Project01/ml_app/digit_AI_inv"
+    model_platform: "tensorflow"
+  }
+
+  config {
+    name: "digit_AI_argmax01"
+    base_path: "/home/simadebnath641/Project01/ml_app/digit_AI_argmax01"
+    model_platform: "tensorflow"
+  }
+}
